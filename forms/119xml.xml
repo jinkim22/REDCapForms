@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<SharedInstrument>
+	<Metadata type="crf">
+		<Field>
+			<FieldName>gdss_1</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FormMenuDescription>Geriatric Depression Scale GDS Short Form</FormMenuDescription>
+			<FieldOrder>186</FieldOrder>
+			<ElementType>select</ElementType>
+			<ElementLabel>1. Are you basically satisfied with your life?</ElementLabel>
+			<ElementEnum>
+				<RawValue>0, Yes \n 1, No</RawValue>
+				<StructuredValue>
+					<Value value="0"> Yes </Value>
+					<Value value=" 1"> No</Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+		<Field>
+			<FieldName>gdss_10</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FieldOrder>195</FieldOrder>
+			<ElementType>select</ElementType>
+			<ElementLabel>10. Do you feel you have more problems with memory than most?</ElementLabel>
+			<ElementEnum>
+				<RawValue>1, Yes \n 0, No</RawValue>
+				<StructuredValue>
+					<Value value="1"> Yes </Value>
+					<Value value=" 0"> No</Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+		<Field>
+			<FieldName>gdss_11</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FieldOrder>196</FieldOrder>
+			<ElementType>select</ElementType>
+			<ElementLabel>11. Do you think it is wonderful to be alive now?</ElementLabel>
+			<ElementEnum>
+				<RawValue>0, Yes \n 1, No</RawValue>
+				<StructuredValue>
+					<Value value="0"> Yes </Value>
+					<Value value=" 1"> No</Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+		<Field>
+			<FieldName>gdss_12</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FieldOrder>197</FieldOrder>
+			<ElementType>select</ElementType>
+			<ElementLabel>12. Do you feel pretty worthless the way you are now?</ElementLabel>
+			<ElementEnum>
+				<RawValue>1, Yes \n 0, No</RawValue>
+				<StructuredValue>
+					<Value value="1"> Yes </Value>
+					<Value value=" 0"> No</Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+		<Field>
+			<FieldName>gdss_13</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FieldOrder>198</FieldOrder>
+			<ElementType>select</ElementType>
+			<ElementLabel>13. Do you feel full of energy?</ElementLabel>
+			<ElementEnum>
+				<RawValue>0, Yes \n 1, No</RawValue>
+				<StructuredValue>
+					<Value value="0"> Yes </Value>
+					<Value value=" 1"> No</Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+		<Field>
+			<FieldName>gdss_14</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FieldOrder>199</FieldOrder>
+			<ElementType>select</ElementType>
+			<ElementLabel>14. Do you feel that your situation is hopeless?</ElementLabel>
+			<ElementEnum>
+				<RawValue>1, Yes \n 0, No</RawValue>
+				<StructuredValue>
+					<Value value="1"> Yes </Value>
+					<Value value=" 0"> No</Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+		<Field>
+			<FieldName>gdss_15</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FieldOrder>200</FieldOrder>
+			<ElementType>select</ElementType>
+			<ElementLabel>15. Do you think that most people are better off than you are?</ElementLabel>
+			<ElementEnum>
+				<RawValue>1, Yes \n 0, No</RawValue>
+				<StructuredValue>
+					<Value value="1"> Yes </Value>
+					<Value value=" 0"> No</Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+		<Field>
+			<FieldName>gdss_2</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FieldOrder>187</FieldOrder>
+			<ElementType>select</ElementType>
+			<ElementLabel>2. Have you dropped many of your activities and interests?</ElementLabel>
+			<ElementEnum>
+				<RawValue>1, Yes \n 0, No</RawValue>
+				<StructuredValue>
+					<Value value="1"> Yes </Value>
+					<Value value=" 0"> No</Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+		<Field>
+			<FieldName>gdss_3</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FieldOrder>188</FieldOrder>
+			<ElementType>select</ElementType>
+			<ElementLabel>3. Do you feel that your life is empty?</ElementLabel>
+			<ElementEnum>
+				<RawValue>1, Yes \n 0, No</RawValue>
+				<StructuredValue>
+					<Value value="1"> Yes </Value>
+					<Value value=" 0"> No</Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+		<Field>
+			<FieldName>gdss_4</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FieldOrder>189</FieldOrder>
+			<ElementType>select</ElementType>
+			<ElementLabel>4. Do you often get bored?</ElementLabel>
+			<ElementEnum>
+				<RawValue>1, Yes \n 0, No</RawValue>
+				<StructuredValue>
+					<Value value="1"> Yes </Value>
+					<Value value=" 0"> No</Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+		<Field>
+			<FieldName>gdss_5</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FieldOrder>190</FieldOrder>
+			<ElementType>select</ElementType>
+			<ElementLabel>5. Are you in good spirits most of the time? </ElementLabel>
+			<ElementEnum>
+				<RawValue>0, Yes \n 1, No</RawValue>
+				<StructuredValue>
+					<Value value="0"> Yes </Value>
+					<Value value=" 1"> No</Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+		<Field>
+			<FieldName>gdss_6</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FieldOrder>191</FieldOrder>
+			<ElementType>select</ElementType>
+			<ElementLabel>6. Are you afraid that something bad is going to happen to you?</ElementLabel>
+			<ElementEnum>
+				<RawValue>1, Yes \n 0, No</RawValue>
+				<StructuredValue>
+					<Value value="1"> Yes </Value>
+					<Value value=" 0"> No</Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+		<Field>
+			<FieldName>gdss_7</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FieldOrder>192</FieldOrder>
+			<ElementType>select</ElementType>
+			<ElementLabel>7. Do you feel happy most of the time?</ElementLabel>
+			<ElementEnum>
+				<RawValue>0, Yes \n 1, No</RawValue>
+				<StructuredValue>
+					<Value value="0"> Yes </Value>
+					<Value value=" 1"> No</Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+		<Field>
+			<FieldName>gdss_8</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FieldOrder>193</FieldOrder>
+			<ElementType>select</ElementType>
+			<ElementLabel>8. Do you often feel helpless?</ElementLabel>
+			<ElementEnum>
+				<RawValue>1, Yes \n 0, No</RawValue>
+				<StructuredValue>
+					<Value value="1"> Yes </Value>
+					<Value value=" 0"> No</Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+		<Field>
+			<FieldName>gdss_9</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FieldOrder>194</FieldOrder>
+			<ElementType>select</ElementType>
+			<ElementLabel>9. Do you prefer to stay at home, rather than going out and doing new things?</ElementLabel>
+			<ElementEnum>
+				<RawValue>1, Yes \n 0, No</RawValue>
+				<StructuredValue>
+					<Value value="1"> Yes </Value>
+					<Value value=" 0"> No</Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+		<Field>
+			<FieldName>gdss_score</FieldName>
+			<FormName>geriatric_depression_scale_gds_short_form4903</FormName>
+			<FieldOrder>201</FieldOrder>
+			<ElementType>calc</ElementType>
+			<ElementLabel>TOTAL (0 - 100)</ElementLabel>
+			<ElementEnum>
+				<RawValue>([gdss_1]+[gdss_2]+[gdss_3]+[gdss_4]+[gdss_5]+[gdss_6]+[gdss_7]+[gdss_8]+[gdss_9]+[gdss_10]+[gdss_11]+[gdss_12]+[gdss_13]+[gdss_14]+[gdss_15])</RawValue>
+				<StructuredValue>
+					<Value value="([gdss_1]+[gdss_2]+[gdss_3]+[gdss_4]+[gdss_5]+[gdss_6]+[gdss_7]+[gdss_8]+[gdss_9]+[gdss_10]+[gdss_11]+[gdss_12]+[gdss_13]+[gdss_14]+[gdss_15])"></Value>
+				</StructuredValue>
+			</ElementEnum>
+		</Field>
+	</Metadata>
+</SharedInstrument>

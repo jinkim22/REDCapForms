@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SharedInstrument><Metadata type="crf"><Field><FieldName>dnt_id</FieldName><FormName>diabetes_numeracy_test</FormName><FormMenuDescription>Diabetes Numeracy Test</FormMenuDescription><FieldOrder>80</FieldOrder><ElementType>text</ElementType><ElementLabel>Patient ID</ElementLabel><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><StandardsMapping/></Field><Field><FieldName>dnt_date</FieldName><FieldPhi>1</FieldPhi><FormName>diabetes_numeracy_test</FormName><FieldOrder>81</FieldOrder><ElementType>text</ElementType><ElementLabel>Date</ElementLabel><ElementValidationType>date_mdy</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><StandardsMapping/></Field><Field><FieldName>dnt_interview</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>82</FieldOrder><ElementType>text</ElementType><ElementLabel>Interview</ElementLabel><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><StandardsMapping/></Field><Field><FieldName>dnt_timestarted</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>83</FieldOrder><ElementType>text</ElementType><ElementLabel>Time Started</ElementLabel><ElementValidationType>time</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><StandardsMapping/></Field><Field><FieldName>dnt_timecompleted</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>84</FieldOrder><ElementType>text</ElementType><ElementLabel>Time Completed</ElementLabel><ElementValidationType>time</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><StandardsMapping/></Field><Field><FieldName>dnt_totaltime</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>85</FieldOrder><ElementType>text</ElementType><ElementLabel>Total Time</ElementLabel><ElementNote>minutes</ElementNote><ElementValidationType>float</ElementValidationType><ElementValidationMin>0</ElementValidationMin><ElementValidationMax>200</ElementValidationMax><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><StandardsMapping/></Field><Field><FieldName>dntdesc_1</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>86</FieldOrder><ElementPreceedingHeader>&lt;font size="2"&gt;The Diabetic Numeracy Test&lt;/font&gt;</ElementPreceedingHeader><ElementType>descriptive</ElementType><ElementLabel>Copyright 2007 by Vanderbilt University. All rights reserved. Please contact authors for permission to use.
+
+Last Revised: January 19, 2005 (Answers Revised 3/05, format revised 3/07)
+
+&lt;u&gt;Description&lt;/u&gt;
+The Diabetic Numeracy Test (DNT) is an assessment test designed to investigate the numeracy skills in patients with diabetes. Numeracy can be defined as the ability to understand and use numbers and math skills in daily life. Numeracy is particularly important to patients with diabetes because these patients apply math skills to diabetes self-management activities such as, glucose monitoring, carbohydrate counting, and adjustment of insulin. The questions in the DNT were formulated from directions given by health care practitioners to patients with diabetes during a routine clinic visit. In addition, question development was guided by reviewing validated math and literacy tests. Arriving at the answers will require not only the ability to perform a variety of math skills, such as addition, subtraction, and multiplication, but also the application of those skills in the daily setting.
+
+&lt;u&gt;Funding&lt;/u&gt;
+The development and validation of this scale was funded with support from the American Diabetes Association (Novo Nordisk Clinical Research Award), the Pfizer Clear Health Communication Initiative, the Vanderbilt Diabetes Research and Training Center (NIDDK 5P60DK020593) and a NIDDK Career Development Award (NIDDK 5K23DK065294).
+
+&lt;u&gt;Test Administration&lt;/u&gt;
+The DNT can be written or orally administered. It consists of 43 questions in five domains: nutrition, exercise, blood glucose monitoring, oral medications and insulin. In addition, the scale consists of eight math problem types: addition, subtraction, multiplication, division, fractions, multi-step mathematics, time, and numeration/counting/number hierarchy. The estimated time for administration of the test is 30 minutes.
+
+&lt;i&gt;General Guidelines&lt;/i&gt;
+* Introduce yourself to the respondent.
+* If the respondent wears glasses, please ask him or her to put them on. If the respondent wears contacts, remind him or her to wear them to the exam.
+* Test the patients visual acuity using a Rosenbaum Pocket Vision Screener. Patients with corrected visual Acuity &gt;20/50 should be excluded from test.
+* Explain the purpose and time frame of the test.
+* Hand the respondent a pencil, paper and calculator before starting the exam.
+* Ask the respondent to write any calculations on the scrap sheet.
+* Ask the respondent to write his or her final answers on the numeracy test in the spaces provided.
+* Explain to the respondent that if he or she is to erase, erase completely without leaving smears or markings.
+* Do not look at the answer choices while administering the exam.
+* Remind respondents who wear hearing aids to bring them to the test.
+
+&lt;i&gt;For oral administration, the test administrator is to follow these directions:&lt;/i&gt;
+* Read the questions out loud to the respondent
+* Allow the patient to examine any figures associated with the question.
+* Repeat the question if asked
+* Give the respondent time to answer the question
+* Only read what's printed in the question. Improvising or interpreting a question for a respondent can invalidate the test results and decrease test efficiency.
+* Allow time for the respondent to calculate and record his or her answers
+* After the respondent has answered a question, immediately proceed to the next item
+* There is no time limit on a particular item.
+* Remind respondents who wear hearing aids to bring them to the test.
+
+&lt;i&gt;For respondents who are having difficulty:&lt;/i&gt;
+* Repeat any question when asked by the respondent. However, do not repeat the question more than three times.
+* If the respondent is having difficulty, please encourage the respondent to continue. Appropriate comments are "you're doing fine." However, do not establish a pattern, such as saying "good" only after correct responses.
+* If the respondent does not want to resume the test, please respond by saying, "I am not trying to embarrass, humiliate, or put your down in anyway. We can stop now, but I would like to pause to let you know that you are very important to this study, and the information you are providing could be used to help patients with diabetes. May I continue. . ."
+* Record any information that you think is relevant or important about the respondent's behavior.
+
+&lt;u&gt;Domain / Question Number&lt;/u&gt;
+Nutrition: 1-9
+Exercise: 10-13
+Blood Glucose Monitoring: 14-17
+Oral Medications: 18-22
+Insulin: 23-43
+
+&lt;u&gt;Math Problem Type / Question Number&lt;/u&gt;
+Addition: 8
+Subtraction: 2, 25
+Multiplication: 3, 5, 16, 26, 27
+Division: 11, 21, 28-31
+Fractions/ Decimals: 4, 6, 7, 8
+Multi-step mathematics: 9, 12, 13, 20, 35-43
+Time: 10, 17, 22
+Numeration/Counting/Hierarchy: 1, 14, 15, 18, 19, 23, 24, 32-34</ElementLabel><FieldReq>0</FieldReq><StandardsMapping/></Field><Field><FieldName>dntdesc_2</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>87</FieldOrder><ElementPreceedingHeader>&lt;font size="2"&gt;Numeracy Survey Questions&lt;/font&gt;</ElementPreceedingHeader><ElementType>descriptive</ElementType><ElementLabel>For each question below, follow the directions and read the prompt. Please record your responses on the blank provided for each question.</ElementLabel><FieldReq>0</FieldReq><StandardsMapping/></Field><Field><FieldName>dnt_1</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>88</FieldOrder><ElementPreceedingHeader>Nutrition</ElementPreceedingHeader><ElementType>text</ElementType><ElementLabel>1. According to the nutrition label, how many grams of total carbohydrate are in 1/2 cup?
+
+&lt;u&gt;Nutrition Facts&lt;/u&gt;
+Serving Size 1/2 cup (114g)
+Servings Per Container 4
+Amount Per Serving
+Calories 90&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspCalories from Fat 30
+Total Fat 3g
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspSaturated Fat 0g
+Cholesterol 0mg
+Sodium 300mg
+Total Carbohydrate 13g
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspDietary Fiber 3g
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspSugars 3g
+Protein 3g
+
+1. ANSWER _________ grams.</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_1_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>89</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #1 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_2</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>90</FieldOrder><ElementPreceedingHeader>Questions 2-3</ElementPreceedingHeader><ElementType>text</ElementType><ElementLabel>2. What is the total amount of carbohydrate eaten if 1 cup of pasta and 1 cup of carrots are eaten together?
+
+&lt;u&gt;Pasta&lt;/u&gt;
+&lt;u&gt;Nutrition Facts&lt;/u&gt;
+Serving Size 1 cup (228g)
+Servings Per Container 2
+Amount Per Serving
+Calories 250&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspCalories from Fat 110
+Total Fat 12g
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspSaturated Fat 3g
+Cholesterol 30mg
+Sodium 470mg
+Total Carbohydrate 31g
+
+&lt;u&gt;Carrots&lt;/u&gt;
+&lt;u&gt;Nutrition Facts&lt;/u&gt;
+Serving Size 1 cup (85g) (3 oz.)
+Servings Per Container 2.5
+Amount Per Serving
+Calories 45&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspCalories from Fat 0
+Total Fat 0g
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspSaturated Fat 0g
+Cholesterol 0mg
+Sodium 55mg
+Total Carbohydrate 10g
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspDietary Fiber 3g
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspSugars 5g
+Protein 1g
+
+2. ANSWER _________ total grams</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_2_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>91</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #2 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_3</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>92</FieldOrder><ElementType>text</ElementType><ElementLabel>3. If you ate the entire container of pasta, how many calories would you be eating?
+
+3. ANSWER _________ calories</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_3_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>93</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #3 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_4</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>94</FieldOrder><ElementType>text</ElementType><ElementLabel>4. If you ate the entire bag of chips, how many total grams of carbohydrate would you eat?
+
+&lt;u&gt;Nutrition Facts&lt;/u&gt;
+Serving Size 1 oz. (28g/About 10 chips)
+Servings Per Container 3.5
+Amount Per Serving
+Calories 140&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspCalories from Fat 60
+Total Fat 6g
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspSaturated Fat 0.5g
+Cholesterol 0mg
+Sodium 160mg
+Total Carbohydrate 18g
+
+4. ANSWER _________ total grams</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_4_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>95</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #4 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_5</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>96</FieldOrder><ElementType>text</ElementType><ElementLabel>5. 1 gram of carbohydrate elevates your blood sugar level 3 points. How much will 20 grams of carbohydrate elevate your blood sugar?
+
+5. ANSWER _________ points</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_5_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>97</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #5 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_6</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>98</FieldOrder><ElementType>text</ElementType><ElementLabel>6. 1/2 cup of potatoes counts as 1 carbohydrate choice. How many choices does 2 cups of potatoes count as?
+
+6. ANSWER _________ choices</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_6_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>99</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #6 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_7</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>100</FieldOrder><ElementType>text</ElementType><ElementLabel>7. You ate 1 and 1/2 cups from the food labeled below. How many grams of carbohydrate did you eat?
+
+&lt;u&gt;Nutrition Facts&lt;/u&gt;
+Serving Size: 3/4 cup
+Servings Per Container 10
+Amount Per Serving
+Calories 150 Calories
+Total Fat 7g
+Total Carbohydrates 18g
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspDietary Fiber 3g
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspSugars 3g
+Protein 3g
+
+7. ANSWER _________ grams</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_7_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>101</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #7 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_8</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>102</FieldOrder><ElementType>text</ElementType><ElementLabel>8. Your dietitian recommends you eat &lt;u&gt;5 servings&lt;/u&gt; of fruits and vegetables each day. You already ate 1/2 cup of canned pineapples, 1 orange and 1 cup of &lt;i&gt;uncooked&lt;/i&gt; vegetables. To have &lt;u&gt;5 servings&lt;/u&gt; of fruits and vegetables, how many cups of cooked vegetables should you eat?
+
+&lt;u&gt;Fruits&lt;/u&gt;
+&lt;i&gt;One serving equals:&lt;/i&gt;
+1 orange, or
+1 apple, or
+1/2 cup of canned pineapples
+
+&lt;u&gt;Vegetables&lt;/u&gt;
+&lt;i&gt;One serving equals:&lt;/i&gt;
+1 cup of uncooked vegetables, or
+1/2 cup of cooked vegetables, or
+3/4 cup of tomato juice
+
+8. ANSWER _________ cups</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_8_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>103</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #8 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_9</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>104</FieldOrder><ElementType>text</ElementType><ElementLabel>9. You ate half the container of carrots. How many carbohydrates did you eat?
+
+&lt;u&gt;Carrots&lt;/u&gt;
+&lt;u&gt;Nutrition Facts&lt;/u&gt;
+Serving Size 1 cup (85g) (3 oz)
+Servings Per Container 2.5
+Amount Per Serving
+Calories 45&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspCalories from Fat 0
+Total Fat 0g
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspSaturated Fat 0g
+Cholesterol 0mg
+Sodium 55mg
+Total Carbohydrate 10g
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspDietary Fiber 3g
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspSugars 5g
+Protein 1g
+
+9. ANSWER________ carbohydrates</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_9_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>105</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #9 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_10</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>106</FieldOrder><ElementPreceedingHeader>Questions 10-11</ElementPreceedingHeader><ElementType>text</ElementType><ElementLabel>10. When you lift weights, you need to eat 20 grams of carbohydrate within 15 minutes after you finish. If you finish weight training at 2:00 PM, by when should you eat the carbohydrates?&lt;br&gt;&lt;br&gt;10. ANSWER _________ PM</ElementLabel><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><StandardsMapping/></Field><Field><FieldName>dnt_10_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>107</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #10 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_11</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>108</FieldOrder><ElementType>text</ElementType><ElementLabel>11. Each cracker has 2 grams of carbohydrate. How many crackers should you eat to get 20 grams?
+
+11. ANSWER _________ crackers</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_11_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>109</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #11 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_12</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>110</FieldOrder><ElementType>text</ElementType><ElementLabel>12. Before working in the yard you are to decrease your meal insulin by half, if the meal and yard work are two hours or less apart. You usually take 8 units for lunch. If you eat lunch at 12:30 and are going to cut the grass at 2:00 PM, how much insulin should you take?
+
+12. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_12_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>111</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #12 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_13</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>112</FieldOrder><ElementType>text</ElementType><ElementLabel>13. You have to eat 6 grams of carbohydrate for each 30 minutes you plan to walk. You are planning to walk for one hour. You have a bag with 12 crackers. Each cracker contains 10 grams of carbohydrate. How many crackers do you need to eat before your walk?
+
+13. ANSWER _________ Crackers</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_13_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>113</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #13 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_14</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>114</FieldOrder><ElementType>checkbox</ElementType><ElementLabel>14. Your target blood sugar is between 60 and 120. Please choose the values below that are in the target range (choose all that apply):</ElementLabel><ElementEnum><RawValue>55, 55 \n 145, 145 \n 118, 118</RawValue><StructuredValue><Value value="55">55</Value><Value value="145">145</Value><Value value="118">118</Value></StructuredValue></ElementEnum><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_14_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>115</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #14 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_15</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>116</FieldOrder><ElementType>text</ElementType><ElementLabel>15. The hemoglobin A1c (HbA1c) test measures average blood sugar levels for the 2-3 month period before blood is drawn. A HbA1c of 6% is equal to an average blood sugar of about 120. If your average blood sugar in the past 3 months is 240, approximately what is your HbA1c?
+
+&lt;u&gt;HbA1c&lt;/u&gt;
+13 --- 330
+12 --- 300
+11 --- 270
+10 --- 240
+9 --- 210
+8 --- 180
+7 --- 150
+6 --- 120
+5 --- 90
+4 --- 60
+
+15. _________%</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_15_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>117</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #15 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_16</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>118</FieldOrder><ElementType>text</ElementType><ElementLabel>16. You test your blood sugar 4 times a day. How many strips do you need to take with you on a 2-week vacation?
+
+16. ANSWER _________ strips</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_16_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>119</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #16 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_17</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>120</FieldOrder><ElementType>checkbox</ElementType><ElementLabel>17. You test your blood sugar 3 times a day. You purchase a prescription of 50 strips on March 5th. Of the dates below, by when will you need to buy new strips?</ElementLabel><ElementEnum><RawValue>1, March 21st \n 2, April 21st \n 3, May 21st \n 4, June 21st</RawValue><StructuredValue><Value value="1">March 21st</Value><Value value="2">April 21st</Value><Value value="3">May 21st</Value><Value value="4">June 21st</Value></StructuredValue></ElementEnum><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_17_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>121</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #17 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_18</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>122</FieldOrder><ElementType>text</ElementType><ElementLabel>18. You have a prescription for repaglinide 1 mg pills. The label says, "Take 2 mg of repaglinide with breakfast, 1 mg with lunch and 3 mg with supper." How many pills should you take with supper?
+
+18. ANSWER _________ pills</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_18_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>123</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #18 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_19</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>124</FieldOrder><ElementType>text</ElementType><ElementLabel>19. You have a prescription for metformin extended release 500 mg tablets. The label says, "Take 1 tablet with supper each night for the first week. Then, increase by 1 tablet each week for a total of 4 tablets daily with supper."
+
+How many tablets should you take with supper each night the &lt;u&gt;second&lt;/u&gt; week?
+
+19. ANSWER _________ tablets</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_19_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>125</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #19 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_20</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>126</FieldOrder><ElementType>text</ElementType><ElementLabel>20. You have only a few pills left in your pill bottle. Your doctor's office needs 3 days to process a new prescription and your pharmacy needs 2 days to fill it. You take 2 pills a day. What is the &lt;u&gt;least&lt;/u&gt; amount of pills that should be in your prescription bottle when you call for a renewal?
+
+20. ANSWER _________ pills</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_20_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>127</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #20 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_21</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>128</FieldOrder><ElementType>text</ElementType><ElementLabel>21. For your diabetes, you take 1 pill two times per day. When you get your refill, the bottle has 60 pills. How many days supply do you have?
+
+21. ANSWER _________ days</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_21_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>129</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #21 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dntdesc_3</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>130</FieldOrder><ElementType>descriptive</ElementType><ElementLabel>22. You fill your prescription on July 15th. You get a 90 day supply. You must mail in a renewal 10 days before your supply runs out. When do you need to mail in a renewal?</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_22a</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>131</FieldOrder><ElementType>select</ElementType><ElementLabel>&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspMonth:</ElementLabel><ElementEnum><RawValue>1, January \n 2, February \n 3, March \n 4, April \n 5, May \n 6, June \n 7, July \n 8, August \n 9, September \n 10, October \n 11, November \n 12, December</RawValue><StructuredValue><Value value="1">January</Value><Value value="2">February</Value><Value value="3">March</Value><Value value="4">April</Value><Value value="5">May</Value><Value value="6">June</Value><Value value="7">July</Value><Value value="8">August</Value><Value value="9">September</Value><Value value="10">October</Value><Value value="11">November</Value><Value value="12">December</Value></StructuredValue></ElementEnum><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_22b</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>132</FieldOrder><ElementType>select</ElementType><ElementLabel>&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspDay:</ElementLabel><ElementEnum><RawValue>1, 1 \n 2, 2 \n 3, 3 \n 4, 4 \n 5, 5 \n 6, 6 \n 7, 7 \n 8, 8 \n 9, 9 \n 10, 10 \n 11, 11 \n 12, 12 \n 13, 13 \n 14, 14 \n 15, 15 \n 16, 16 \n 17, 17 \n 18, 18 \n 19, 19 \n 20, 20 \n 21, 21 \n 22, 22 \n 23, 23 \n 24, 24 \n 25, 25 \n 26, 26 \n 27, 27 \n 28, 28 \n 29, 29 \n 30, 30 \n 31, 31</RawValue><StructuredValue><Value value="1">1</Value><Value value="2">2</Value><Value value="3">3</Value><Value value="4">4</Value><Value value="5">5</Value><Value value="6">6</Value><Value value="7">7</Value><Value value="8">8</Value><Value value="9">9</Value><Value value="10">10</Value><Value value="11">11</Value><Value value="12">12</Value><Value value="13">13</Value><Value value="14">14</Value><Value value="15">15</Value><Value value="16">16</Value><Value value="17">17</Value><Value value="18">18</Value><Value value="19">19</Value><Value value="20">20</Value><Value value="21">21</Value><Value value="22">22</Value><Value value="23">23</Value><Value value="24">24</Value><Value value="25">25</Value><Value value="26">26</Value><Value value="27">27</Value><Value value="28">28</Value><Value value="29">29</Value><Value value="30">30</Value><Value value="31">31</Value></StructuredValue></ElementEnum><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dntdesc_4</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>133</FieldOrder><ElementType>descriptive</ElementType><ElementLabel>22. ANSWER _________</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_22_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>134</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #22 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_23</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>135</FieldOrder><ElementType>select</ElementType><ElementLabel>23. You take 46 units of insulin at bedtime. On the syringe below, circle the line/marking that shows you have drawn 46 units.</ElementLabel><ElementEnum><RawValue>0, 0 \n 1, 1 \n 2, 2 \n 3, 3 \n 4, 4 \n 5, 5 \n 6, 6 \n 7, 7 \n 8, 8 \n 9, 9 \n 10, 10 \n 11, 11 \n 12, 12 \n 13, 13 \n 14, 14 \n 15, 15 \n 16, 16 \n 17, 17 \n 18, 18 \n 19, 19 \n 20, 20 \n 21, 21 \n 22, 22 \n 23, 23 \n 24, 24 \n 25, 25 \n 26, 26 \n 27, 27 \n 28, 28 \n 29, 29 \n 30, 30 \n 31, 31 \n 32, 32 \n 33, 33 \n 34, 34 \n 35, 35 \n 36, 36 \n 37, 37 \n 38, 38 \n 39, 39 \n 40, 40 \n 41, 41 \n 42, 42 \n 43, 43 \n 44, 44 \n 45, 45 \n 46, 46 \n 47, 47 \n 48, 48 \n 49, 49 \n 50, 50</RawValue><StructuredValue><Value value="0">0</Value><Value value="1">1</Value><Value value="2">2</Value><Value value="3">3</Value><Value value="4">4</Value><Value value="5">5</Value><Value value="6">6</Value><Value value="7">7</Value><Value value="8">8</Value><Value value="9">9</Value><Value value="10">10</Value><Value value="11">11</Value><Value value="12">12</Value><Value value="13">13</Value><Value value="14">14</Value><Value value="15">15</Value><Value value="16">16</Value><Value value="17">17</Value><Value value="18">18</Value><Value value="19">19</Value><Value value="20">20</Value><Value value="21">21</Value><Value value="22">22</Value><Value value="23">23</Value><Value value="24">24</Value><Value value="25">25</Value><Value value="26">26</Value><Value value="27">27</Value><Value value="28">28</Value><Value value="29">29</Value><Value value="30">30</Value><Value value="31">31</Value><Value value="32">32</Value><Value value="33">33</Value><Value value="34">34</Value><Value value="35">35</Value><Value value="36">36</Value><Value value="37">37</Value><Value value="38">38</Value><Value value="39">39</Value><Value value="40">40</Value><Value value="41">41</Value><Value value="42">42</Value><Value value="43">43</Value><Value value="44">44</Value><Value value="45">45</Value><Value value="46">46</Value><Value value="47">47</Value><Value value="48">48</Value><Value value="49">49</Value><Value value="50">50</Value></StructuredValue></ElementEnum><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_23_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>136</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #23 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_24</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>137</FieldOrder><ElementType>select</ElementType><ElementLabel>24. Your insulin dose is increased to 54 units and you begin using a larger syringe that holds 100 units. On the syringe below, circle the line/marking that shows you have drawn 54 units.</ElementLabel><ElementEnum><RawValue>0, 0 \n 1, 1 \n 2, 2 \n 3, 3 \n 4, 4 \n 5, 5 \n 6, 6 \n 7, 7 \n 8, 8 \n 9, 9 \n 10, 10 \n 11, 11 \n 12, 12 \n 13, 13 \n 14, 14 \n 15, 15 \n 16, 16 \n 17, 17 \n 18, 18 \n 19, 19 \n 20, 20 \n 21, 21 \n 22, 22 \n 23, 23 \n 24, 24 \n 25, 25 \n 26, 26 \n 27, 27 \n 28, 28 \n 29, 29 \n 30, 30 \n 31, 31 \n 32, 32 \n 33, 33 \n 34, 34 \n 35, 35 \n 36, 36 \n 37, 37 \n 38, 38 \n 39, 39 \n 40, 40 \n 41, 41 \n 42, 42 \n 43, 43 \n 44, 44 \n 45, 45 \n 46, 46 \n 47, 47 \n 48, 48 \n 49, 49 \n 50, 50 \n 51, 51 \n 52, 52 \n 53, 53 \n 54, 54 \n 55, 55 \n 56, 56 \n 57, 57 \n 58, 58 \n 59, 59 \n 60, 60 \n 61, 61 \n 62, 62 \n 63, 63 \n 64, 64 \n 65, 65 \n 66, 66 \n 67, 67 \n 68, 68 \n 69, 69 \n 70, 70 \n 71, 71 \n 72, 72 \n 73, 73 \n 74, 74 \n 75, 75 \n 76, 76 \n 77, 77 \n 78, 78 \n 79, 79 \n 80, 80 \n 81, 81 \n 82, 82 \n 83, 83 \n 84, 84 \n 85, 85 \n 86, 86 \n 87, 87 \n 88, 88 \n 89, 89 \n 90, 90 \n 91, 91 \n 92, 92 \n 93, 93 \n 94, 94 \n 95, 95 \n 96, 96 \n 97, 97 \n 98, 98 \n 99, 99 \n 100, 100</RawValue><StructuredValue><Value value="0">0</Value><Value value="1">1</Value><Value value="2">2</Value><Value value="3">3</Value><Value value="4">4</Value><Value value="5">5</Value><Value value="6">6</Value><Value value="7">7</Value><Value value="8">8</Value><Value value="9">9</Value><Value value="10">10</Value><Value value="11">11</Value><Value value="12">12</Value><Value value="13">13</Value><Value value="14">14</Value><Value value="15">15</Value><Value value="16">16</Value><Value value="17">17</Value><Value value="18">18</Value><Value value="19">19</Value><Value value="20">20</Value><Value value="21">21</Value><Value value="22">22</Value><Value value="23">23</Value><Value value="24">24</Value><Value value="25">25</Value><Value value="26">26</Value><Value value="27">27</Value><Value value="28">28</Value><Value value="29">29</Value><Value value="30">30</Value><Value value="31">31</Value><Value value="32">32</Value><Value value="33">33</Value><Value value="34">34</Value><Value value="35">35</Value><Value value="36">36</Value><Value value="37">37</Value><Value value="38">38</Value><Value value="39">39</Value><Value value="40">40</Value><Value value="41">41</Value><Value value="42">42</Value><Value value="43">43</Value><Value value="44">44</Value><Value value="45">45</Value><Value value="46">46</Value><Value value="47">47</Value><Value value="48">48</Value><Value value="49">49</Value><Value value="50">50</Value><Value value="51">51</Value><Value value="52">52</Value><Value value="53">53</Value><Value value="54">54</Value><Value value="55">55</Value><Value value="56">56</Value><Value value="57">57</Value><Value value="58">58</Value><Value value="59">59</Value><Value value="60">60</Value><Value value="61">61</Value><Value value="62">62</Value><Value value="63">63</Value><Value value="64">64</Value><Value value="65">65</Value><Value value="66">66</Value><Value value="67">67</Value><Value value="68">68</Value><Value value="69">69</Value><Value value="70">70</Value><Value value="71">71</Value><Value value="72">72</Value><Value value="73">73</Value><Value value="74">74</Value><Value value="75">75</Value><Value value="76">76</Value><Value value="77">77</Value><Value value="78">78</Value><Value value="79">79</Value><Value value="80">80</Value><Value value="81">81</Value><Value value="82">82</Value><Value value="83">83</Value><Value value="84">84</Value><Value value="85">85</Value><Value value="86">86</Value><Value value="87">87</Value><Value value="88">88</Value><Value value="89">89</Value><Value value="90">90</Value><Value value="91">91</Value><Value value="92">92</Value><Value value="93">93</Value><Value value="94">94</Value><Value value="95">95</Value><Value value="96">96</Value><Value value="97">97</Value><Value value="98">98</Value><Value value="99">99</Value><Value value="100">100</Value></StructuredValue></ElementEnum><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_24_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>138</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #24 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_25</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>139</FieldOrder><ElementType>text</ElementType><ElementLabel>25. You take 10 units of insulin lispro and 16 units of insulin glargine before breakfast. What is the total number of units of insulin you take before breakfast?
+
+25. ANSWER _________ total units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_25_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>140</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #25 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_26</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>141</FieldOrder><ElementType>text</ElementType><ElementLabel>26. The doctor tells you to take 2 units of insulin for every 1 serving of carbohydrate you eat. How many units of insulin do you take for 6 servings of carbohydrate?
+
+26. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_26_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>142</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #26 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_27</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>143</FieldOrder><ElementType>text</ElementType><ElementLabel>27. 1 unit of insulin lowered your blood sugar by 30 points. How much does 4 units of insulin lower your blood sugar?
+
+27. ANSWER _________ points</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_27_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>144</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #27 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_28</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>145</FieldOrder><ElementPreceedingHeader>&lt;u&gt;Use the following information for questions 28, 29, 30.&lt;/u&gt;
+
+Please &lt;u&gt;round down&lt;/u&gt; to the nearest whole number.
+
+You are given the following instructions: "Take 1 unit of insulin for every 7 grams of carbohydrate you eat." How much insulin do you take:</ElementPreceedingHeader><ElementType>text</ElementType><ElementLabel>&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp28. When you eat 49 grams at Breakfast?
+
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp49 grams
+
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp28. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_28_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>146</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #28 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_29</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>147</FieldOrder><ElementType>text</ElementType><ElementLabel>&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp29. When you eat 60 grams at Lunch?
+
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp60 grams
+
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp29. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_29_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>148</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #29 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_30</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>149</FieldOrder><ElementType>text</ElementType><ElementLabel>&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp30. When you eat 98 grams at Supper?
+
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp98 grams
+
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp30. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_30_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>150</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #30 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_31</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>151</FieldOrder><ElementType>text</ElementType><ElementLabel>31. You have been told to cut your insulin in half for a colon test. Your usual dose is 41 units. What amount should you take for the colon test?
+
+31. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_31_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>152</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #31 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_32</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>153</FieldOrder><ElementPreceedingHeader>&lt;u&gt;Use the following information for question 32, 33, 34;&lt;/u&gt;
+
+You are told to follow the sliding scale shown here. The sliding scale indicates the amount of insulin you take based upon your blood sugar levels.
+If Blood sugar is:&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspUnits of Insulin
+130-180&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp0
+181-230&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp1
+231-280&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp2
+281-330&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp3
+331-380&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp4</ElementPreceedingHeader><ElementType>text</ElementType><ElementLabel>32. How much insulin would you take for a blood sugar of 191?
+
+32. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_32_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>154</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #32 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_33</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>155</FieldOrder><ElementType>text</ElementType><ElementLabel>33. How much insulin would you take for a blood sugar of 134?
+
+33. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_33_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>156</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #33 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_34</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>157</FieldOrder><ElementType>text</ElementType><ElementLabel>34. How much insulin would you take for a blood sugar of 295?
+
+34. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_34_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>158</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #34 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_35</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>159</FieldOrder><ElementPreceedingHeader>&lt;u&gt;Use the following information for questions 35, 36 and 37&lt;/u&gt;
+You check your blood sugar just before eating. You take 1 unit of insulin for every 10 grams of carbohydrates you eat. You are also given the sliding scale shown below. The sliding scale indicates the amount of insulin you should add to your usual dose based upon your blood sugar levels:
+
+If your blood sugar is greater than 120 points at breakfast, lunch or supper, add 2 units of insulin.
+If your blood sugar is greater than 150 points at breakfast, lunch or supper, add 4 units of insulin.
+If your blood sugar is greater than 180 points at breakfast, lunch or supper, add 6 units of insulin.
+
+&lt;i&gt;Insulin Dose Schedule&lt;/i&gt;
+1 unit of Insulin /10 grams carbohydrate at meals
+If blood sugar is:&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspBreakfast&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspLunch&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspSupper
+&gt; 120&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp+ 2&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp+ 2&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp+ 2
+&gt; 150&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp+ 4&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp+ 4&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp+ 4
+&gt; 180&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp+ 6&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp+ 6&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp+ 6</ElementPreceedingHeader><ElementType>text</ElementType><ElementLabel>35. Your blood sugar is 284 and you ate 40 grams of carbohydrate at breakfast. How much total insulin do you need to take?
+
+284 mg/dl&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp||&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp40 grams
+
+35. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_35_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>160</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #35 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_36</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>161</FieldOrder><ElementType>text</ElementType><ElementLabel>36. Your blood sugar is 140 and you will eat 50 grams of carbohydrate at lunch. How much total insulin do you need to take?
+
+140 mg/dl&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp||&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp50 grams
+
+36. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_36_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>162</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #36 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_37</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>163</FieldOrder><ElementType>text</ElementType><ElementLabel>37. Your blood sugar is 380 and you will eat 60 grams of carbohydrate at supper. How much total insulin do you need to take?
+
+380 mg/dl&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp||&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp60 grams
+
+37. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_37_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>164</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #37 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_38</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>165</FieldOrder><ElementPreceedingHeader>&lt;u&gt;Questions 38-42&lt;/u&gt;
+You have been asked to start taking 32 units of NPH insulin tonight at bedtime.
+This insulin will work during the night and will lower your blood sugar first thing in the morning. You were given the following instructions:
+
+* Your goal is to have the morning (fasting) blood sugar below 120.
+* Check your blood sugar every morning before breakfast.
+* Start with 32 units of NPH tonight. Increase the dose by 2 units &lt;u&gt;every other&lt;/u&gt; day until your blood sugar is at or below 120.
+* Your fasting blood sugar &lt;u&gt;must&lt;/u&gt; be above 120 for 2 mornings in a row in order for you to increase the insulin dose by 2 units.
+* Once your blood sugar is staying below 120, stop increasing the nighttime insulin.
+
+You begin with 32 units of NPH insulin last night. How much NPH insulin will you take on each of the following nights?</ElementPreceedingHeader><ElementType>text</ElementType><ElementLabel>38. Morning of day 1, your blood sugar is 164. How much insulin will you take that night?
+
+38. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_38_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>166</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #38 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_39</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>167</FieldOrder><ElementType>text</ElementType><ElementLabel>39. Morning of day 2, your blood sugar is 136. How much insulin will you take that night?
+
+39. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_39_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>168</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #39 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_40</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>169</FieldOrder><ElementType>text</ElementType><ElementLabel>40. Morning of day 3, your blood sugar is 102. How much insulin will you take that night?
+
+40. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_40_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>170</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #40 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_41</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>171</FieldOrder><ElementType>text</ElementType><ElementLabel>41. Morning of day 4, your blood sugar is 140. How much insulin will you take that night?
+
+41. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_41_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>172</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #41 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_42</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>173</FieldOrder><ElementType>text</ElementType><ElementLabel>42. Morning of day 5, your blood sugar is 132. How much insulin will you take that night?
+
+42. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_42_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>174</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #42 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_43</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>175</FieldOrder><ElementType>text</ElementType><ElementLabel>43. After seeing the Doctor, you are given the following instruction to lower a high blood sugar level before a meal:
+
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp"Starting with a blood sugar of 120, take 1 unit of insulin lispro for each 50 points of blood sugar."
+
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbspHow much insulin should you take for a blood sugar of 375?
+
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp43. ANSWER _________ units</ElementLabel><ElementValidationType>float</ElementValidationType><ElementValidationChecktype>soft_typed</ElementValidationChecktype><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_43_yn</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>176</FieldOrder><ElementType>yesno</ElementType><ElementLabel>&lt;div&gt;&lt;span style='color:blue;'&gt;Did patient answer #43 correctly?&lt;/div&gt;</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field><Field><FieldName>dnt_answer_key</FieldName><FormName>diabetes_numeracy_test</FormName><FieldOrder>177</FieldOrder><ElementPreceedingHeader>Answer Key</ElementPreceedingHeader><ElementType>descriptive</ElementType><ElementLabel>1) 13 grams
+2) 41 grams
+3) 500 calories
+4) 63 grams
+5) 60 points
+6) 4 choices
+7) 36 grams
+8) 1 cup
+9) 12.5 grams
+10) 2:00 - 2:15pm
+11) 10 crackers
+12) 4 units
+13) 1-2 crackers
+14) Circled 118 only
+15) 10
+16) 56
+17) March 21
+18) 3 pills
+19) 2 tablets
+20) 10 pills
+21) 30 days
+22) Accept Oct 3-6
+23) See Question sheet
+24) See Question sheet
+25) 26 units
+26) 12 units
+27) 120 points
+28) 7 units
+29) 8 units
+30) 14 units
+31) 20 or 20.5 units
+32) 1 unit
+33) 0 units
+34) 3 units
+35) 10 units
+36) 7 units
+37) 12 units
+38) 32 units
+39) 34 units
+40) 34 units
+41) 34 units
+42) 36 units
+43) Accept 5-6 units</ElementLabel><FieldReq>0</FieldReq><QuestionLayout>RV</QuestionLayout><StandardsMapping/></Field></Metadata></SharedInstrument>
